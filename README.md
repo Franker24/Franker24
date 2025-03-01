@@ -10,7 +10,7 @@
 - :computer: I am a programmer at `FreeCodeCamp`
 - :student: I’m currently learning  `Software Develoment`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](file:///C:/Users/User/OneDrive/Escritorio/Cv/cv_23_10.pdf).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]("file:///C:/Users/User/OneDrive/Escritorio/Cv/cv_23_10.pdf").
 - :boom: You can visit [MY WEBSITE]().
 <br>
 
